@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 你好，我是yzj
 
-<!--
-**yzj6/yzj6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+01年程序员 · 华东师范大学 · 计算机技术专业 · 在读硕士  
+📧 466124674@qq.com | 📱 15802136367  
+📍 上海 | 🎯 求职方向：后端开发 / ai应用开发
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 关于我
+
+- 🎓 **教育背景**：华东师范大学（硕士）、上海应用技术大学（本科）
+- 📊 **学术成绩**：本科 GPA 4.0 / 前 5%，多次获得校综合奖学金
+- 🏆 **竞赛经历**：ICPC 区域赛铜奖、CCPC 铜奖、蓝桥杯全国二等奖等多项程序设计奖项
+- 💼 **实习经历**：
+  - **同程数科**：Java 后端开发，参与核心借贷系统，负责流程设计、数据库优化、高并发处理
+    - ***金融系统开发***：参与对账、融资、借款等核心系统，具备高并发与系统优化经验
+  - **智算健康科技**：全栈开发，使用 Spring Boot + Vue3 实现管理系统与数据分析功能
